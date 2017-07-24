@@ -1,0 +1,16 @@
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.deps.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.runtimeconfig.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.runtimeconfig.dev.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.csprojResolveAssemblyReference.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.csproj.CoreCompileInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.AssemblyInfoInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.AssemblyInfo.cs
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Core.Tests.pdb

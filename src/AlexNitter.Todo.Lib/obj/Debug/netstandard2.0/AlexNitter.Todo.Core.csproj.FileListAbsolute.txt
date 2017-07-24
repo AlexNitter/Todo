@@ -1,0 +1,9 @@
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\bin\Debug\netstandard2.0\AlexNitter.Todo.Core.deps.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\bin\Debug\netstandard2.0\AlexNitter.Todo.Core.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\bin\Debug\netstandard2.0\AlexNitter.Todo.Core.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.csproj.CoreCompileInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.AssemblyInfoInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.AssemblyInfo.cs
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Core\obj\Debug\netstandard2.0\AlexNitter.Todo.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.deps.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.runtimeconfig.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.runtimeconfig.dev.json
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.csprojResolveAssemblyReference.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.csproj.CoreCompileInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.AssemblyInfoInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.AssemblyInfo.cs
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\obj\Debug\netcoreapp2.0\AlexNitter.Todo.WebCore.pdb
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.WebCore\bin\Debug\netcoreapp2.0\AlexNitter.Todo.Core.pdb

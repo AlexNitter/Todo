@@ -1,0 +1,8 @@
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Web.Framework\obj\Debug\AlexNitter.Todo.Web.Framework.csprojResolveAssemblyReference.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Web.Framework\obj\Debug\AlexNitter.Todo.Web.Framework.csproj.CoreCompileInputs.cache
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Web.Framework\obj\Debug\WebFramework.dll
+C:\DEV\AlexNitter.Todo\AlexNitter.Todo.Web.Framework\obj\Debug\WebFramework.pdb
+C:\DEV\Todo\AlexNitter.Todo.Web.Framework\obj\Debug\AlexNitter.Todo.Web.Framework.csprojResolveAssemblyReference.cache
+C:\DEV\Todo\AlexNitter.Todo.Web.Framework\obj\Debug\AlexNitter.Todo.Web.Framework.csproj.CoreCompileInputs.cache
+C:\DEV\Todo\AlexNitter.Todo.Web.Framework\obj\Debug\WebFramework.dll
+C:\DEV\Todo\AlexNitter.Todo.Web.Framework\obj\Debug\WebFramework.pdb

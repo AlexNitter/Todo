@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "bc91fd535dae81d68a2a9d298dcb065eaa8c86a7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "AlexNitter.Todo.Core/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0-preview2-25401-01"
+        },
+        "runtime": {
+          "AlexNitter.Todo.Core.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {},
+      "NETStandard.Library/2.0.0-preview2-25401-01": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.Packaging.Tools": "1.0.0-preview2-25401-01"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlexNitter.Todo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0VRMAxYqKdvjAQ08exV1/hzUJ58MhWx1GTn/aylN2slvHDWcvefO6PhbfdrgMAmixlzTJc959fBO3EBsxGnPSg==",
+      "path": "microsoft.packaging.tools/1.0.0-preview2-25401-01",
+      "hashPath": "microsoft.packaging.tools.1.0.0-preview2-25401-01.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0-preview2-25401-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7Y+lzZakZa8uhDTvSy73fjbWolspSw+b2stcHSmSmD352YVxnUA0d3lai3BMSYvOTZvHms3zynDsbklshrluzA==",
+      "path": "netstandard.library/2.0.0-preview2-25401-01",
+      "hashPath": "netstandard.library.2.0.0-preview2-25401-01.nupkg.sha512"
+    }
+  }
+}
