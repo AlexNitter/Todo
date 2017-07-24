@@ -7,7 +7,7 @@ namespace AlexNitter.Todo.Lib.Services
 {
     public class AuthenticationService
     {
-        public BaseResponse Register(LoginRequest request)
+        public BaseResponse Register(RegisterRequest request)
         {
             var response = new BaseResponse() { Success = false };
 
