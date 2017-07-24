@@ -17,6 +17,7 @@ namespace AlexNitter.Todo.WebFramework.Controllers
         }
 
         [HttpPost]
+        [Route("Login")]
         public ActionResult Login(LoginRequest request)
         {
             return View();

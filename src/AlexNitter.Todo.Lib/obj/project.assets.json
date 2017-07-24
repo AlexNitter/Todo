@@ -209,11 +209,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
+      "projectUniqueName": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
       "projectName": "AlexNitter.Todo.Lib",
-      "projectPath": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
+      "projectPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib\\obj\\",
+      "outputPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",

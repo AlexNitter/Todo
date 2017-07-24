@@ -6657,11 +6657,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib.Tests\\AlexNitter.Todo.Lib.Tests.csproj",
+      "projectUniqueName": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib.Tests\\AlexNitter.Todo.Lib.Tests.csproj",
       "projectName": "AlexNitter.Todo.Lib.Tests",
-      "projectPath": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib.Tests\\AlexNitter.Todo.Lib.Tests.csproj",
+      "projectPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib.Tests\\AlexNitter.Todo.Lib.Tests.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib.Tests\\obj\\",
+      "outputPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6678,8 +6678,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\DEV\\Todo\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj": {
-              "projectPath": "C:\\DEV\\Todo\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj"
+            "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj": {
+              "projectPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj"
             }
           }
         }
