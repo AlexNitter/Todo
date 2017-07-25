@@ -50,7 +50,7 @@
       ]
     },
     "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
-      "sha512": "0VRMAxYqKdvjAQ08exV1/hzUJ58MhWx1GTn/aylN2slvHDWcvefO6PhbfdrgMAmixlzTJc959fBO3EBsxGnPSg==",
+      "sha512": "FaPsTmalvRCBNKWXIH2WtLIXu1WBzyyPuidj5KgadkcMzSRtt6S9ejc4q9BhpK071RhI5tgF3PTrPaqhzSS21g==",
       "type": "package",
       "path": "microsoft.packaging.tools/1.0.0-preview2-25401-01",
       "files": [
@@ -68,7 +68,7 @@
       ]
     },
     "NETStandard.Library/2.0.0-preview2-25401-01": {
-      "sha512": "7Y+lzZakZa8uhDTvSy73fjbWolspSw+b2stcHSmSmD352YVxnUA0d3lai3BMSYvOTZvHms3zynDsbklshrluzA==",
+      "sha512": "GfUddetWhNijKNGhAr6m41wJiKCFAJv0tw/5akGMaMns4BE32WKtu8xqfxYy2ae4lKMxrF18CaRaENYjzUYcxw==",
       "type": "package",
       "path": "netstandard.library/2.0.0-preview2-25401-01",
       "files": [
@@ -201,7 +201,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\anitter\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -209,14 +209,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
       "projectName": "AlexNitter.Todo.Lib",
-      "projectPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Todo\\src\\AlexNitter.Todo.Lib\\obj\\",
+      "projectPath": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj",
+      "packagesPath": "C:\\Users\\anitter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anitter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -224,7 +224,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Alex\\.dotnet\\NuGetFallbackFolder": {},
+        "C:\\Users\\anitter\\.dotnet\\NuGetFallbackFolder": {},
+        "\\\\ddcekm101.sead.ekom21.de\\Transfer\\Releases\\nuget-packages": {},
+        "http://paptfs002.ad.ekom21.de/NuGet/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

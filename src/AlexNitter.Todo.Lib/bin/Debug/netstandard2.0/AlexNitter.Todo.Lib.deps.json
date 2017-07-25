@@ -41,14 +41,14 @@
     "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0VRMAxYqKdvjAQ08exV1/hzUJ58MhWx1GTn/aylN2slvHDWcvefO6PhbfdrgMAmixlzTJc959fBO3EBsxGnPSg==",
+      "sha512": "sha512-FaPsTmalvRCBNKWXIH2WtLIXu1WBzyyPuidj5KgadkcMzSRtt6S9ejc4q9BhpK071RhI5tgF3PTrPaqhzSS21g==",
       "path": "microsoft.packaging.tools/1.0.0-preview2-25401-01",
       "hashPath": "microsoft.packaging.tools.1.0.0-preview2-25401-01.nupkg.sha512"
     },
     "NETStandard.Library/2.0.0-preview2-25401-01": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7Y+lzZakZa8uhDTvSy73fjbWolspSw+b2stcHSmSmD352YVxnUA0d3lai3BMSYvOTZvHms3zynDsbklshrluzA==",
+      "sha512": "sha512-GfUddetWhNijKNGhAr6m41wJiKCFAJv0tw/5akGMaMns4BE32WKtu8xqfxYy2ae4lKMxrF18CaRaENYjzUYcxw==",
       "path": "netstandard.library/2.0.0-preview2-25401-01",
       "hashPath": "netstandard.library.2.0.0-preview2-25401-01.nupkg.sha512"
     }

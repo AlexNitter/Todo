@@ -30,3 +30,12 @@ C:\DEV\Todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib
 C:\DEV\Todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.dll
 C:\DEV\Todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.pdb
 C:\DEV\Todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.csprojResolveAssemblyReference.cache
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\bin\Debug\netstandard2.0\AlexNitter.Todo.Lib.deps.json
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\bin\Debug\netstandard2.0\AlexNitter.Todo.Lib.dll
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\bin\Debug\netstandard2.0\AlexNitter.Todo.Lib.pdb
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.csprojResolveAssemblyReference.cache
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.csproj.CoreCompileInputs.cache
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.AssemblyInfoInputs.cache
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.AssemblyInfo.cs
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.dll
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib\obj\Debug\netstandard2.0\AlexNitter.Todo.Lib.pdb

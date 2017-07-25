@@ -46,3 +46,5 @@ C:\DEV\Todo\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Li
 C:\DEV\Todo\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Lib.Tests.AssemblyInfo.cs
 C:\DEV\Todo\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Lib.Tests.dll
 C:\DEV\Todo\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Lib.Tests.pdb
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Lib.Tests.dll
+C:\Users\anitter\Source\Repos\todo\src\AlexNitter.Todo.Lib.Tests\obj\Debug\netcoreapp2.0\AlexNitter.Todo.Lib.Tests.pdb
