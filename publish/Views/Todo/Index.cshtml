@@ -1,0 +1,44 @@
+﻿@model AlexNitter.Todo.Lib.ViewModels.TodoViewModel
+
+@{
+    ViewBag.Title = "Todos";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+
+<h1>Todos</h1>
+<div class="row">
+    <div class="col-md-4">
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Meine Todolisten</h3>
+            </div>
+            <div class="panel-body">
+                @Html.Partial("~/Views/Partial/_TodoLists.cshtml", Model.Listen)
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-8">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">
+                    @if (Model.SelectedListe != null)
+                    {
+                        <span>Todos zur Liste '@Model.SelectedListe.Name'</span>
+                    }
+                    else
+                    {
+                        <span>Noch keine List erstellt</span>
+                    }
+                </h3>
+            </div>
+            <div class="panel-body">
+                @if (Model.SelectedListe != null)
+                {
+                    @Html.Partial("~/Views/Partial/_TodoItems.cshtml", Model.SelectedListe)
+                }
+            </div>
+        </div>
+    </div>
+</div>
