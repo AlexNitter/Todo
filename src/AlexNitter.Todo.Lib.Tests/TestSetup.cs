@@ -12,7 +12,7 @@ namespace AlexNitter.Todo.Lib.Tests
         public static void AssemblyInit(TestContext context)
         {
             Config.InitializeConfig(
-                connectionstring: @"Data Source=C:\DEV\GitHub\AlexNitter\Todo\src\SolutionItems\todo.db;",
+                connectionstring: @"Data Source=C:\DEV\GitHub\AlexNitter\Todo\publish\todo.db;",
                 logFileDirectory: @"C:\Temp\TodoApp\Logs");
         }
     }
