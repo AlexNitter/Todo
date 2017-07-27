@@ -3,12 +3,12 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Todo - @ViewBag.Title</title>
+    <title>@ViewBag.Title - TodoApp</title>
     <link href="~/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 <body>
     <div class="container">
-        <h1>Todo-App</h1>
+        @{ Html.RenderAction("InfoContainer", "Home"); }
         @RenderBody()
         <script src="~/bower_components/jquery/dist/jquery.min.js"></script>
         <script src="~/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26711.1
+VisualStudioVersion = 15.0.26720.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexNitter.Todo.Lib", "AlexNitter.Todo.Lib\AlexNitter.Todo.Lib.csproj", "{470C7518-9574-4961-BC7F-2EFDBAA373EA}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexNitter.Todo.Web.Core", "AlexNitter.Todo.Web.Core\AlexNitter.Todo.Web.Core.csproj", "{418B1BDC-4FD3-4B5D-B646-2F35DFC89C61}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexNitter.Todo.Web.Framework", "AlexNitter.Todo.Web.Framework\AlexNitter.Todo.Web.Framework.csproj", "{3A627456-5188-46C5-B0DE-C560A70862FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5B866B1C-1042-467E-9246-12D6683CEB4E}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\todo.db = SolutionItems\todo.db
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

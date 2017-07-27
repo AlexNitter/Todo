@@ -1,25 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore;
+﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
+using System.IO;
 
 namespace AlexNitter.Todo.Web.Core
 {
     public class Program
     {
+        public static IConfigurationRoot Configuration { get; set; }
+
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
+        public static IWebHost BuildWebHost(string[] args)
+        {
+            var builder = WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseContentRoot(Directory.GetCurrentDirectory())
                 .Build();
+
+            return builder;
+        }
     }
 }

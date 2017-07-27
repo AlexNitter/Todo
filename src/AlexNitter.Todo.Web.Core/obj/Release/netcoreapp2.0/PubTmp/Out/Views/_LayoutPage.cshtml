@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - TodoApp</title>
+    <link href="~/wwwroot/vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        @await Component.InvokeAsync("InfoContainer")
+        @RenderBody()
+        <script src="~/wwwroot/vendor/jquery/dist/jquery.min.js"></script>
+        <script src="~/wwwroot/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    </div>
+</body>
+</html>

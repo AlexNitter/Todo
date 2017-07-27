@@ -1,0 +1,32 @@
+﻿@model List<AlexNitter.Todo.Lib.Entities.TodoListe>
+
+<form action="~/Todo/Liste/Neu" method="post">
+    <div class="input-group">
+        <input type="text" class="form-control" id="Name" name="Name" placeholder="Neue Liste..." style="display: inline;" required />
+        <div class="input-group-btn">
+            <button type="submit" class="btn btn-primary" title="Neue Liste speichern"><i class="glyphicon glyphicon-save"></i></button>
+        </div>
+    </div>
+</form>
+<br />
+
+@foreach (var liste in Model)
+{
+    @*<form action="~/Todo/Liste/Edit/@liste.Id" method="post"><button class="btn btn-secondary" type="submit">Ändern</button></form>*@
+    <form action="~/Todo/Liste/Delete/@liste.Id" method="post">
+        <div class="dropdown" title="@liste.Name (@(liste.Items.Where(x => x.Aktiv == true).Count().ToString()) offen,  @(liste.Items.Where(x => x.Aktiv == false).Count().ToString()) abgeschlossen)">
+            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+                @liste.Name (@(liste.Items.Where(x => x.Aktiv == true).Count().ToString())/@(liste.Items.Where(x => x.Aktiv == false).Count().ToString()))
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="~/Todo/@liste.Id">Auswählen</a></li>
+                <li><a href="~/Todo/Liste/Delete/@liste.Id">Löschen</a></li>
+            </ul>
+        </div>
+
+        @*<a href="~/Todo/@liste.Id">@liste.Name</a>
+            <button class="btn btn-sm btn-danger" type="submit" title="Todoliste '@liste.Name' löschen"><i class="glyphicon glyphicon-erase"></i></button>*@
+    </form>
+    <br />
+}

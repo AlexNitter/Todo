@@ -1,0 +1,7 @@
+﻿@model AlexNitter.Todo.Lib.ViewModels.InfoContainerViewModel
+
+@if (Model.Eingeloggt)
+{
+    <br />
+    <span class="pull-right">Eingeloggt als @Model.Username <a href="~/Logout">(ausloggen)</a></span>
+}

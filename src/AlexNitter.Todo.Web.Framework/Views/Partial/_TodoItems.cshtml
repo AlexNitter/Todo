@@ -1,0 +1,35 @@
+﻿@model AlexNitter.Todo.Lib.Entities.TodoListe
+
+@if (Model != null)
+{
+    <form action="~/Todo/Item/Neu" method="post">
+        <div class="input-group">
+            <input type="hidden" id="TodoListeId" name="TodoListeId" value="@Model.Id" />
+            <input type="text" id="Name" name="Name" class="form-control" placeholder="Neuen Todo..." style="display: inline;" required />
+            <div class="input-group-btn">
+                <button type="submit" class="btn btn-primary" title="Neuen Todo speichern"><i class="glyphicon glyphicon-save"></i></button>
+            </div>
+        </div>
+    </form>
+
+    if (Model.Items != null && Model.Items.Count > 0)
+    {
+        if (Model.Items.Where(x => x.Aktiv == true).Count() == 0)
+        {
+            <br />
+        }
+
+        foreach (var item in Model.Items)
+        {
+            if (item.Aktiv)
+            {
+                <h3><a href="~/Todo/Item/Erledigt/@item.TodoListeId/@item.Id" title="Erledigt!">@item.Name</a></h3>
+            }
+            else
+            {
+                <s>@item.Name</s>
+                <br />
+            }
+        }
+    }
+}

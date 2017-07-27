@@ -1,0 +1,14 @@
+﻿@model AlexNitter.Todo.Lib.ViewModels.BaseViewModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+
+<h1>Login</h1>
+
+@if(Model != null && !String.IsNullOrEmpty(Model.Message))
+{
+    <div class="alert alert-danger">@Model.Message</div>
+}
+
+@Html.Partial("~/Views/Partial/_Login.cshtml")

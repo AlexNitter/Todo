@@ -1,0 +1,9 @@
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\bin\Release\netstandard2.0\AlexNitter.Todo.Lib.deps.json
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\bin\Release\netstandard2.0\AlexNitter.Todo.Lib.dll
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\bin\Release\netstandard2.0\AlexNitter.Todo.Lib.pdb
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.csprojResolveAssemblyReference.cache
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.csproj.CoreCompileInputs.cache
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.AssemblyInfoInputs.cache
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.AssemblyInfo.cs
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.dll
+C:\DEV\GitHub\AlexNitter\Todo\src\AlexNitter.Todo.Lib\obj\Release\netstandard2.0\AlexNitter.Todo.Lib.pdb

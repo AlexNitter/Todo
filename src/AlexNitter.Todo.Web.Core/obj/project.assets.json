@@ -2797,34 +2797,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/10.0.1": {
+      "Newtonsoft.Json/10.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
-          "System.Collections": "4.3.0",
+          "NETStandard.Library": "1.6.1",
           "System.ComponentModel.TypeConverter": "4.3.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Dynamic.Runtime": "4.3.0",
-          "System.Globalization": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.Linq": "4.3.0",
-          "System.Linq.Expressions": "4.3.0",
-          "System.ObjectModel": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Reflection.Extensions": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.Numerics": "4.3.0",
           "System.Runtime.Serialization.Formatters": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0",
-          "System.Text.Encoding": "4.3.0",
-          "System.Text.Encoding.Extensions": "4.3.0",
-          "System.Text.RegularExpressions": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Threading.Tasks": "4.3.0",
-          "System.Xml.ReaderWriter": "4.3.0",
-          "System.Xml.XDocument": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         },
         "compile": {
@@ -5086,6 +5066,10 @@
       "AlexNitter.Todo.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.Data.SQLite": "1.1.1",
+          "Newtonsoft.Json": "10.0.3"
+        },
         "compile": {
           "bin/placeholder/AlexNitter.Todo.Lib.dll": {}
         },
@@ -8567,11 +8551,12 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/10.0.1": {
-      "sha512": "dhloDW5lPtRp9S30l6vxqX/88JU79QMZqWoXFCDzQ9FQklcHfHuSZUpRIg38SpA+3HckZJvlouyOFH7p/vWm5w==",
+    "Newtonsoft.Json/10.0.3": {
+      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
       "type": "package",
-      "path": "newtonsoft.json/10.0.1",
+      "path": "newtonsoft.json/10.0.3",
       "files": [
+        "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -8584,9 +8569,11 @@
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wpa81+wp8/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wpa81+wp8/Newtonsoft.Json.xml",
-        "newtonsoft.json.10.0.1.nupkg.sha512",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.10.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
       ]
@@ -13839,11 +13826,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Web.Core\\AlexNitter.Todo.Web.Core.csproj",
+      "projectUniqueName": "C:\\DEV\\GitHub\\AlexNitter\\Todo\\src\\AlexNitter.Todo.Web.Core\\AlexNitter.Todo.Web.Core.csproj",
       "projectName": "AlexNitter.Todo.Web.Core",
-      "projectPath": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Web.Core\\AlexNitter.Todo.Web.Core.csproj",
+      "projectPath": "C:\\DEV\\GitHub\\AlexNitter\\Todo\\src\\AlexNitter.Todo.Web.Core\\AlexNitter.Todo.Web.Core.csproj",
       "packagesPath": "C:\\Users\\anitter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Web.Core\\obj\\",
+      "outputPath": "C:\\DEV\\GitHub\\AlexNitter\\Todo\\src\\AlexNitter.Todo.Web.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anitter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13854,16 +13841,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\anitter\\.dotnet\\NuGetFallbackFolder": {},
-        "\\\\ddcekm101.sead.ekom21.de\\Transfer\\Releases\\nuget-packages": {},
-        "http://paptfs002.ad.ekom21.de/NuGet/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj": {
-              "projectPath": "C:\\Users\\anitter\\Source\\Repos\\todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj"
+            "C:\\DEV\\GitHub\\AlexNitter\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj": {
+              "projectPath": "C:\\DEV\\GitHub\\AlexNitter\\Todo\\src\\AlexNitter.Todo.Lib\\AlexNitter.Todo.Lib.csproj"
             }
           }
         }

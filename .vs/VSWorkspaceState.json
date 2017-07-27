@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\AlexNitter.Todo.Lib"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\AlexNitter.Todo.Lib\\Testclass.cs",
+  "SelectedNode": "\\src\\AlexNitter.Todo.Lib",
   "PreviewInSolutionExplorer": false
 }

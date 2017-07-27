@@ -1,9 +1,10 @@
-﻿using System;
+﻿using AlexNitter.Todo.Lib.Entities;
+using System;
 
 namespace AlexNitter.Todo.Lib.DataModels
 {
     public class LoginResponse : BaseResponse
     {
-        public String SessionId { get; set; }
+        public Session SessionCreated { get; set; }
     }
 }
