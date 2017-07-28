@@ -5,6 +5,8 @@ Diese Anwendung ist im Rahmen der Bachelorarbeit zur Erreichung des akamedischen
 ## Szenario
 Die Anwendung stellt eine einfache Todo-Liste dar. Ein User kann sich anmelden und registrieren, um daraufhin beliebig viele Todo-Listen mit beliebig vielen Einträgen pflegen zu können. Abgeschlossene Einträge können als solche gekennzeichnet werden.
 
+![Screenshot der Anwendung](https://raw.githubusercontent.com/AlexNitter/Todo/master/screenshot.png)
+
 ## Installation und Inbetriebnahme der ASP.NET Core Variante
 1. Download und Installation des .NET Core 2.0 SDK unter https://www.microsoft.com/net/core/preview
     * Zur Kontrolle kann nach der Installation im Terminal der Befehl `dotnet --version` aufgerufen werden. Als Ergebnis müsste ein Schriftzug in der Konsole erscheinen wie "2.0.0-preview2-006497"
