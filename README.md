@@ -7,7 +7,7 @@ Die Anwendung stellt eine einfache Todo-Liste dar. Ein User kann sich anmelden u
 
 ## Installation und Inbetriebnahme der ASP.NET Core Variante
 1. Download und Installation des .NET Core 2.0 SDK unter https://www.microsoft.com/net/core/preview
-    * Zur Kontrolle kann nach der Installation im Terminal der Befehl `dotnet --version` aufgerufen werden. Als Ergebnis müsste etwas auftauchen wie "2.0.0-preview2-006497"
+    * Zur Kontrolle kann nach der Installation im Terminal der Befehl `dotnet --version` aufgerufen werden. Als Ergebnis müsste ein Schriftzug in der Konsole erscheinen wie "2.0.0-preview2-006497"
 2. Download des GitHub-Repositories via `git clone https://github.com/alexnitter/todo` oder über die "Download"-Schaltfläche auf dieser Website
 3. In das Verzeichnis todo/publish wechseln und dort die Datei appsettings.json wie folgt anpassen
     * "Connectionstring": "[Pfad zur todo.db-Datei]/todo.db"
